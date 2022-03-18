@@ -2,5 +2,3 @@
 (David, David22)
 (Beth, Beth33)
 (chase, morgan)
-(Chase, Morgan)
-(chase1, four)
