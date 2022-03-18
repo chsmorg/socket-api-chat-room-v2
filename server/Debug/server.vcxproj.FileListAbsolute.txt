@@ -1,0 +1,2 @@
+C:\Users\yigma\OneDrive\Desktop\project0\server\Debug\server.exe
+C:\Users\yigma\project0\server\Debug\server.exe
