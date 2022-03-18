@@ -1,0 +1,14 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  client.cpp
+C:\Users\yigma\project0\client\client.cpp(49,20): warning C4476: 'printf' : unknown type field character '>' in format specifier
+C:\Users\yigma\project0\client\client.cpp(207,22): warning C4476: 'printf' : unknown type field character '>' in format specifier
+C:\Users\yigma\project0\client\client.cpp(80,31): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\yigma\project0\client\client.cpp(89,18): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\yigma\project0\client\client.cpp(129,11): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yigma\project0\client\client.cpp(130,11): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yigma\project0\client\client.cpp(146,29): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yigma\project0\client\client.cpp(147,29): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yigma\project0\client\client.cpp(148,30): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yigma\project0\client\client.cpp(167,30): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yigma\project0\client\client.cpp(168,29): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  client.vcxproj -> C:\Users\yigma\project0\client\Debug\client.exe
